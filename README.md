@@ -10,7 +10,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -21,10 +20,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 ### The challenge
 
 Users should be able to: When button is clicked a new advice will generate for the user.
-
-### Screenshot
-
-![Advice Generator](../../../Downloads/Screenshot%202022-04-10%20at%2013-19-41%20Frontend%20Mentor%20Advice%20generator%20app.png)
 
 ### Links
 
