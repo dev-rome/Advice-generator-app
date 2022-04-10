@@ -28,6 +28,8 @@ body {
 }
 
 .advice__heading {
+  text-transform: uppercase;
+  letter-spacing: 4px;
   font-size: 0.688rem;
   color: hsl(150, 100%, 66%);
   margin: 3rem 0 1.5rem 0;
