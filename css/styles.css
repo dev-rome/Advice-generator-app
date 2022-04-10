@@ -28,12 +28,13 @@ body {
 }
 
 .advice__heading {
-  font-size: 0.813rem;
+  font-size: 0.688rem;
   color: hsl(150, 100%, 66%);
   margin: 3rem 0 1.5rem 0;
 }
 
 .advice__quote {
+  font-size: 1.5rem;
   width: 80%;
   margin: 0 auto;
   color: hsl(193, 38%, 86%);
@@ -66,8 +67,13 @@ body {
   .advice__card {
     width: 540px;
   }
+  
+  .advice__heading {
+    font-size: 0.813rem;
+  }
 
   .advice__quote {
+    font-size: 1.75rem;
     width: 85%;
   }
 
