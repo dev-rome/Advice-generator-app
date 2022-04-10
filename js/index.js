@@ -9,7 +9,7 @@ adviceBtn.addEventListener("click", () => {
   fetch(url)
     .then((res) => res.json())
     .then((data) => {
-      adviceNumber.innerHTML = data.slip.id;
+      adviceNumber.innerHTML = `#${data.slip.id}`;
       adviceQuote.innerHTML = `&#8220;${data.slip.advice}&#8221;`;
     });
 });
